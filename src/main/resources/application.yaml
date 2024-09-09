@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: music-downloader-api
+
+
+
+
+springdoc:
+  swagger-ui:
+    doc-expansion: none
+    tagsSorter: alpha
